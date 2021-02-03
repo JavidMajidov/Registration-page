@@ -1,0 +1,35 @@
+body {
+  background-color: rgba(109, 207, 211, 0.726);
+}
+
+#col1 {
+margin: 95px -285px;
+padding: 0 111px;
+}
+
+#col2 {
+  margin: -260px 344px;
+  padding: 0 111px;
+}
+
+#col3 {
+  margin: 0 -78px;
+  padding: 0 90px;
+}
+
+#col4 {
+  margin: -259px 351px;
+  padding: 0 90px;
+}
+
+#col5 {
+ margin: 308px -18px 20px;
+}
+
+#col6{
+  margin: 0 -14px;
+}
+
+.btn {
+  margin:0 0 50px;
+}
